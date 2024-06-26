@@ -29,3 +29,7 @@ Make some changes in .env
 `npm run dev` Gets the dev environment running.
 
 # Screenshots
+
+![Screenshot](https://i.imgur.com/n0rUWCI.png)
+![Screenshot](https://i.imgur.com/30M6k3Y.png)
+![Screenshot](https://i.imgur.com/HEo0U60.png)
