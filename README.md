@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# What is this app and what can it do?
 
-## Getting Started
+## Blog-Better - Your own personal blog.
 
-First, run the development server:
+#### Pretty simple and beautiful app. Let the world know your thoughts in your own way.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Fork the code, Make some edits and host it on your own domain.
+- Admin panel to manage blogs and mailing list.
+- Data is stored safely in MongoDB servers.
+- Website is hosted on Render!
+- Now go! Use it to your hearts content!
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Tech used
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- React
+- NextJS
+- Tailwind
+- MongoDB
+- Toastify
+- Axios
+- Render
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+# Wanna deploy locally?
 
-## Learn More
+`npm install` To get the dependencies
 
-To learn more about Next.js, take a look at the following resources:
+Make some changes in .env
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+`npm run dev` Gets the dev environment running.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# Screenshots
